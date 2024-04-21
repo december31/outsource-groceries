@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>11</Id>
+    <Tensp>123adfsdsf</Tensp>
+    <Gia>12345</Gia>
+    <Url_img />
+    <Giamgia>12</Giamgia>
+  </Product>
+  <Product>
+    <Id>10</Id>
+    <Tensp>fadfasd</Tensp>
+    <Gia>12345</Gia>
+    <Url_img />
+    <Giamgia>23</Giamgia>
+  </Product>
+  <Product>
+    <Id>9</Id>
+    <Tensp>Bộ 3 mũ lưỡi trai h5</Tensp>
+    <Gia>210000</Gia>
+    <Url_img>images/img_0262_749x464.jpg</Url_img>
+    <Giamgia>12</Giamgia>
+  </Product>
+  <Product>
+    <Id>8</Id>
+    <Tensp>Ghế đơn cao cấp</Tensp>
+    <Gia>560000</Gia>
+    <Url_img>images/p4.jpg</Url_img>
+    <Giamgia>25</Giamgia>
+  </Product>
+  <Product>
+    <Id>7</Id>
+    <Tensp>Xoong thủy tinh cao cấp</Tensp>
+    <Gia>420000</Gia>
+    <Url_img>images/abc (5).png</Url_img>
+    <Giamgia>0</Giamgia>
+  </Product>
+  <Product>
+    <Id>6</Id>
+    <Tensp>Cây đèn</Tensp>
+    <Gia>240000</Gia>
+    <Url_img>images/p6.jpg</Url_img>
+    <Giamgia>20</Giamgia>
+  </Product>
+  <Product>
+    <Id>5</Id>
+    <Tensp>Nồi kho cá</Tensp>
+    <Gia>800000</Gia>
+    <Url_img>images/abc(4).jfif</Url_img>
+    <Giamgia>15</Giamgia>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Tensp>Đèn để bàn</Tensp>
+    <Gia>140000</Gia>
+    <Url_img>images/Product2.PNG</Url_img>
+    <Giamgia>5</Giamgia>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Tensp>Bộ 3 mũ lưỡi trai h4</Tensp>
+    <Gia>180000</Gia>
+    <Url_img>images/hat3.jpg</Url_img>
+    <Giamgia>10</Giamgia>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Tensp>Máy pha cà phê Samsung</Tensp>
+    <Gia>2000000</Gia>
+    <Url_img>images/abc (7).png</Url_img>
+    <Giamgia>25</Giamgia>
+  </Product>
+  <Product>
+    <Id>1</Id>
+    <Tensp>Bộ dao kéo</Tensp>
+    <Gia>150000</Gia>
+    <Url_img>images/abc (3).png</Url_img>
+    <Giamgia>0</Giamgia>
+  </Product>
+  <Product>
+    <Id>0</Id>
+    <Tensp>Mũ tai bèo H2</Tensp>
+    <Gia>120000</Gia>
+    <Url_img>images/2.jpg</Url_img>
+    <Giamgia>10</Giamgia>
+  </Product>
+</ArrayOfProduct>

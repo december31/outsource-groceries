@@ -1,0 +1,223 @@
+C:\Users\HP\source\repos\btlltw\btlltw\bin\btlltw.dll.config
+C:\Users\HP\source\repos\btlltw\btlltw\bin\btlltw.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\btlltw.pdb
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\csi.exe.config
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Console.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\btlltw\btlltw\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\btlltw\btlltw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\btlltw\btlltw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\btlltw\btlltw\obj\Debug\btlltw.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\btlltw\btlltw\obj\Debug\btlltw.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\btlltw\btlltw\obj\Debug\btlltw.csproj.CopyComplete
+C:\Users\HP\source\repos\btlltw\btlltw\obj\Debug\btlltw.dll
+C:\Users\HP\source\repos\btlltw\btlltw\obj\Debug\btlltw.pdb
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\btlltw.dll.config
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\btlltw.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\btlltw.pdb
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\csc.exe
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\csc.exe.config
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\csc.rsp
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\csi.exe
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\csi.exe.config
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\csi.rsp
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.AppContext.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Collections.Immutable.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Console.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.IO.Compression.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.IO.FileSystem.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.IO.Pipes.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Reflection.Metadata.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Security.AccessControl.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Security.Claims.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.ValueTuple.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Xml.XPath.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\vbc.exe
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\vbc.exe.config
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\vbc.rsp
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\VBCSCompiler.exe
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\roslyn\VBCSCompiler.exe.config
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\obj\Debug\btlltw.csprojAssemblyReference.cache
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\obj\Debug\btlltw.csproj.CoreCompileInputs.cache
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\obj\Debug\btlltw.csproj.CopyComplete
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\obj\Debug\btlltw.dll
+E:\Document\Báo cáo\Web_Dev\btlltw-master\btlltw\obj\Debug\btlltw.pdb
+F:\LTW\btlltw-master\btlltw\bin\btlltw.dll.config
+F:\LTW\btlltw-master\btlltw\bin\btlltw.dll
+F:\LTW\btlltw-master\btlltw\bin\btlltw.pdb
+F:\LTW\btlltw-master\btlltw\bin\roslyn\csc.exe
+F:\LTW\btlltw-master\btlltw\bin\roslyn\csc.exe.config
+F:\LTW\btlltw-master\btlltw\bin\roslyn\csc.rsp
+F:\LTW\btlltw-master\btlltw\bin\roslyn\csi.exe
+F:\LTW\btlltw-master\btlltw\bin\roslyn\csi.exe.config
+F:\LTW\btlltw-master\btlltw\bin\roslyn\csi.rsp
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.Managed.Core.targets
+F:\LTW\btlltw-master\btlltw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.AppContext.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Collections.Immutable.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Console.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.IO.Compression.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.IO.FileSystem.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.IO.Pipes.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Reflection.Metadata.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Security.AccessControl.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Security.Claims.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Security.Principal.Windows.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.ValueTuple.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Xml.XmlDocument.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Xml.XPath.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\LTW\btlltw-master\btlltw\bin\roslyn\vbc.exe
+F:\LTW\btlltw-master\btlltw\bin\roslyn\vbc.exe.config
+F:\LTW\btlltw-master\btlltw\bin\roslyn\vbc.rsp
+F:\LTW\btlltw-master\btlltw\bin\roslyn\VBCSCompiler.exe
+F:\LTW\btlltw-master\btlltw\bin\roslyn\VBCSCompiler.exe.config
+F:\LTW\btlltw-master\btlltw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\LTW\btlltw-master\btlltw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\LTW\btlltw-master\btlltw\obj\Debug\btlltw.csprojAssemblyReference.cache
+F:\LTW\btlltw-master\btlltw\obj\Debug\btlltw.csproj.CoreCompileInputs.cache
+F:\LTW\btlltw-master\btlltw\obj\Debug\btlltw.csproj.CopyComplete
+F:\LTW\btlltw-master\btlltw\obj\Debug\btlltw.dll
+F:\LTW\btlltw-master\btlltw\obj\Debug\btlltw.pdb
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\obj\Debug\btlltw.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\obj\Debug\btlltw.pdb
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\btlltw.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\btlltw.pdb
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\csc.exe
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\csc.exe.config
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\csc.rsp
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\csi.exe
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\csi.exe.config
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\csi.rsp
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Console.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.IO.Compression.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Security.Claims.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.ValueTuple.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\vbc.exe
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\vbc.exe.config
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\vbc.rsp
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\obj\Debug\btlltw.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\obj\Debug\btlltw.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Zalo Received Files\btlltw-master-20240410T164938Z-001\btlltw-master\btlltw\obj\Debug\btlltw.csproj.CopyComplete

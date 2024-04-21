@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member>
+    <NickName1>admin@gmail.com</NickName1>
+    <Id>0</Id>
+    <Pass>1</Pass>
+    <Gen>false</Gen>
+  </Member>
+  <Member>
+    <NickName1>tranbaphuc@gmail.com</NickName1>
+    <Id>1</Id>
+    <Pass>123</Pass>
+    <Gen>false</Gen>
+  </Member>
+  <Member>
+    <NickName1>nguyenducan30122002@gmail.com</NickName1>
+    <Id>2</Id>
+    <Pass>An30122002</Pass>
+    <Gen>false</Gen>
+  </Member>
+  <Member>
+    <NickName1>admin@gmail.comm</NickName1>
+    <Id>3</Id>
+    <Pass>12345</Pass>
+    <Gen>false</Gen>
+  </Member>
+</ArrayOfMember>
