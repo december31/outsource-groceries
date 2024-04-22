@@ -129,6 +129,7 @@ namespace btlltw
             // }
 
             Product prod = new Product();
+
             try
             {
                 prod.Id = getNextProductId();
@@ -156,7 +157,7 @@ namespace btlltw
             else
             {
                 _database.ExecuteNonQuery(
-                    $"INSERT INTO [dbo].[Product]([id],[tensp],[url_img],[gia],[giamgia], [category_id]) VALUES ({prod.Id}, N'{prod.Tensp}', N'{prod.Url_img}', {prod.Gia}, {prod.Gia}, 1)");
+                    $"INSERT INTO [dbo].[Product]([id],[tensp],[url_img],[gia],[giamgia], [category_id]) VALUES ({prod.Id}, N'{prod.Tensp}', N'{prod.Url_img}', {prod.Gia}, {prod.Giamgia}, 1)");
                 reader.Close();
                 Page.Response.Redirect(Page.Request.Url.ToString(), true);
             }
